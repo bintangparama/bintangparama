@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bintangparama
-- 👀 I’m interested in ml
+- 👀 I’m interested in svelte
 - 🌱 I’m currently learning js
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me email
